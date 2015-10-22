@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The bug is normally there where I have changed something. By comparing to
+	files I can see this easily.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    When I notice the solution from 2 versions ago was better, I can easy
+	implement that back again without losing my other progress.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    - I must decide when it is a good time to do a commit
+	+ I have a useful subdivison
+	- There are no useless commits
+	+ I can comment my commit and write down what is working in this version
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	In Google Docs I write a document or create an presentation where I have only
+	one file to save, in coding it is often necessary to do changes in multiple
+	files and I want to commit them all and not every file by itself.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    With git log I can see a short a description about what was changed in that
+	commit. With git diff it is easy to see which lines I changed between two 
+	different commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I break something in the new version, I can simply checkout the last
+	version and work with that or I can compare the version where the bug first
+	appears with the one before and find how that bug was introduced. I am always
+	on the safe side.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for my future coding projects. At next I want to learn 
+	developing Android Apps, so at a high percentage I will use Git for my first
+	Android App.
