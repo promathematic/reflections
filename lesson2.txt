@@ -19,6 +19,13 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	- when to try a new experimental feature which can destroy whole program
+	- add a new language
+	- redesign the UI
+	
+	Branches help to experiment with the project, but having an executable and stable
+	version at every time.
 
 How do the diagrams help you visualize the branch structure?
 
