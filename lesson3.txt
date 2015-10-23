@@ -8,7 +8,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+  When I want on GitHub only a working version of my project I only pull the branch
+  if it is working as I expect. Also I maybe do not want to have a specific branch
+  on GitHub and instead only on my local developing engine.  
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
