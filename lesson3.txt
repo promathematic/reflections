@@ -23,7 +23,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You have always an up-to-date version of your program and test your functions with
+	the changes your colleges did.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
